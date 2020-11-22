@@ -1,0 +1,5 @@
+a) Will print 86 with 4 white spaces before it since the minimum digits are 6. Will print 1040 exactly as 1040 since the minimum digits are 4
+b) Will print 30.253 with two trailing zeros since precsion is 5 and 4 leading white spaces since the minimum digits are 12.
+c) Prints 83.1620
+d) Prints 6 digits with two decimal places, left adjusted.
+ 

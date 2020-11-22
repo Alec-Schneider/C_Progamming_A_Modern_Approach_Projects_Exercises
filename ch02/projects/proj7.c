@@ -1,6 +1,6 @@
 // Ask the user for a dollar amount and 
 // output the smallest number of $20, $20, 
-// $5, adn $1 bills.
+// $5, and $1 bills.
 
 #include <stdio.h>
 
