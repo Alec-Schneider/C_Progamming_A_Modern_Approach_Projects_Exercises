@@ -1,0 +1,4 @@
+there are 13 tokens in the following statement:
+answer=(3*q-p*p)/3
+
+answer = (3 * q - p * p) / 3

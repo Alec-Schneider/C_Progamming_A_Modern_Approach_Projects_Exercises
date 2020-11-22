@@ -1,0 +1,5 @@
+It is not a good idea for an identifier to contain more than one adjacent
+underscore?
+
+It is not a good idea because it does not help to identify
+the identifier and adds unnescessary length.

@@ -1,0 +1,2 @@
+The following are not legal C identifiers:
+100_bottles
