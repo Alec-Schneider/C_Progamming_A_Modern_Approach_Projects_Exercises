@@ -1,0 +1,1 @@
+Yes the if statements are equivalent.
